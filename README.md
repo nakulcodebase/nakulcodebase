@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&pause=1000&color=B30B4F&center=true&vCenter=true&width=435&lines=Hello+Developers;I+Am+Nakul)](https://git.io/typing-svg)
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Oswald&pause=1000&color=B30B4F&center=true&vCenter=true&width=435&lines=Hello+Developers;I+Am+Nakul" alt="Typing SVG" />
+  </a>
+</div>
 
 # 💫 About Me:
 🔭 I’m currently working on AudioXedit<br><br>🌱 I’m currently learning Python in AIML<br><br>👯 I’m looking to collaborate on OPTIVION<br><br>👨‍💻 All of my projects are available at https://github.com/nakulcodebase<br><br>💬 Ask me about Problems<br><br>📫 How to reach me connectnakul@outlook.com<br><br>📄 Know about my experiences https://www.linkedin.com/in/nakulsharma6
