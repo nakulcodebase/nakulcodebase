@@ -1,7 +1,5 @@
 <div align="center">
-  <a href="https://github.com/nakulcodebase">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1500&color=0175C2&center=true&vCenter=true&width=600&height=80&lines=Hello+developers+👋;I+Am+Nakul;Working+on+AudioXedit;Learning+Python+in+AIML;Collaborating+on+OPTIVION" alt="Typing Animation" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=32&pause=1500&color=0175C2&center=true&vCenter=true&width=600&height=80&lines=Hello+developers;I+Am+Nakul;Working+on+AudioXedit;Learning+Python+in+AIML;Collaborating+on+OPTIVION" alt="Typing Animation" />
 </div>
 
 # 💫 About Me:
@@ -27,5 +25,3 @@
     <img src="https://komarev.com/ghpvc/?username=nakulcodebase&icon=9&color=2" alt="Profile Views" />
   </a>
 </div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
