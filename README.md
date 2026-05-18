@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=32&pause=1500&color=0175C2&center=true&vCenter=true&width=600&height=80&lines=Hello+developers;I+Am+Nakul" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com/demo/?font=Oswald&color=B30B4F/?font=Fira+Code&weight=700&size=32&pause=1500&color=0175C2&center=true&vCenter=true&width=600&height=80&lines=Hello+developers;I+Am+Nakul" alt="Typing Animation" />
 </div>
 
 # 💫 About Me:
