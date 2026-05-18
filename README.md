@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com/demo/?font=Oswald&color=B30B4F/?font=Fira+Code&weight=700&size=32&pause=1500&color=0175C2&center=true&vCenter=true&width=600&height=80&lines=Hello+developers;I+Am+Nakul" alt="Typing Animation" />
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&pause=1000&color=B30B4F&center=true&vCenter=true&width=435&lines=Hello+Developers;I+Am+Nakul)](https://git.io/typing-svg)
 
 # 💫 About Me:
 🔭 I’m currently working on AudioXedit<br><br>🌱 I’m currently learning Python in AIML<br><br>👯 I’m looking to collaborate on OPTIVION<br><br>👨‍💻 All of my projects are available at https://github.com/nakulcodebase<br><br>💬 Ask me about Problems<br><br>📫 How to reach me connectnakul@outlook.com<br><br>📄 Know about my experiences https://www.linkedin.com/in/nakulsharma6
