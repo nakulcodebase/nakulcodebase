@@ -15,7 +15,7 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nakulcodebase&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
+  <img src="![CommitPulse](https://commitpulse.vercel.app/api/streak?user=nakulcodebase&theme=github)" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nakulcodebase&theme=dark&hide_border=false" alt="GitHub Streak" />
   <br/>
